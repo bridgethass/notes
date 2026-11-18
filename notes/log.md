@@ -40,3 +40,7 @@ Append-only record of all operations.
   - Added back-links in `Geospatial.md`, `Remote_Sensing.md`, and `Agentic_Coding.md`.
   - Updated Latest Finds and the topic list in `index.md`, and added Training to the `mkdocs.yml` nav.
   - Moved the source to `processed/New_Notes_2026-11-18b.md` and created a new empty `raw/New_Notes.md`.
+- **2026-11-18** — Reorganized the Training topic and updated the topic list:
+  - Moved NASA ARSET from `Remote_Sensing.md` and the Agentic Coding for Geospatial course from `Agentic_Coding.md` into `Training.md` as its main notes. Training had shown (0) because it only had Related back-links.
+  - Updated back-links in `Remote_Sensing.md`, `Agentic_Coding.md`, `Geospatial.md`, and `Ecology.md` to point to Training.
+  - Added Web Design to the topic list in `CLAUDE.md`.

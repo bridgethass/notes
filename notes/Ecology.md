@@ -7,4 +7,4 @@
 
 ## Related
 
-- [[Remote_Sensing]]: NASA ARSET offers free training on using satellite data for conservation and ecosystem monitoring.
+- [[Training]]: NASA ARSET offers free training on using satellite data for conservation and ecosystem monitoring.

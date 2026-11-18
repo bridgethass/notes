@@ -68,6 +68,7 @@ Thematic Topics
 * Lidar
 * Cartography
 * Training
+* Web Design
 
 ## Topic Page Format
 
