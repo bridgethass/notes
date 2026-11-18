@@ -12,3 +12,4 @@
 ## Related
 
 - [[Web_Design]]: Evan Applegate's step-by-step guide to building a website with Claude Code.
+- [[Training]]: The Agentic Coding for Geospatial course.

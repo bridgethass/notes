@@ -67,6 +67,7 @@ Thematic Topics
 * Hyperspectral
 * Lidar
 * Cartography
+* Training
 
 ## Topic Page Format
 

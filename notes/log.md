@@ -32,3 +32,11 @@ Append-only record of all operations.
   - Added an "Update the Website" section to `CLAUDE.md`.
   - The local `mkdocs build` succeeded.
 - **2026-11-18** — Changed the GitHub repo in `mkdocs.yml` from bhass/notes to bridgethass/notes (site URL: https://bridgethass.github.io/notes/).
+- **2026-11-18** — Added the Training topic and ingested `raw/New_Notes.md` (3 URL notes):
+  - Created `Training.md` with links to the training-related notes (NASA ARSET, the Agentic Coding for Geospatial course, and the portfolio workshop), and added Training to the topic list in `CLAUDE.md`.
+  - Added the Daily Fire Dashboard (NASA FIRMS) to `Remote_Sensing.md`.
+  - Added the Spatial Thoughts portfolio website template to `Web_Design.md`.
+  - Added STAC to `Cloud_Native.md`.
+  - Added back-links in `Geospatial.md`, `Remote_Sensing.md`, and `Agentic_Coding.md`.
+  - Updated Latest Finds and the topic list in `index.md`, and added Training to the `mkdocs.yml` nav.
+  - Moved the source to `processed/New_Notes_2026-11-18b.md` and created a new empty `raw/New_Notes.md`.

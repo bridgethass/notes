@@ -7,9 +7,9 @@
 
 ## Latest Finds
 
-- [Building a website with Claude Code (Evan Applegate)](https://x.com/youwillmakemaps/status/2115984033201148376): A 9-step guide to building fast, attractive sites with an AI coding agent. From [[Web_Design]].
-- [Reflections on AI as an Educator (Spatial Thoughts)](https://spatialthoughts.com/2026/05/12/reflections-on-ai/): Why AI coding tools make domain expertise and judgment more valuable. From [[Agentic_Coding]].
-- [NASA ARSET – Applied Remote Sensing Training Program](https://www.earthdata.nasa.gov/data/projects/arset): NASA's free training on applying satellite data. From [[Remote_Sensing]].
+- [STAC: SpatioTemporal Asset Catalogs](https://stacspec.org/en): A specification for cataloging geospatial data so any dataset can be searched the same way. From [[Cloud_Native]].
+- [Portfolio Website Template (Spatial Thoughts)](https://github.com/spatialthoughts/portfolio-website-template/): A MkDocs template for geospatial professionals' portfolio sites. From [[Web_Design]].
+- [Daily Fire Dashboard (Spatial Thoughts)](https://spatialthoughts.github.io/firms-dashboard/): Maps active fire detections from the past 24 hours using NASA FIRMS. From [[Remote_Sensing]].
 
 ## Topics
 
@@ -23,4 +23,5 @@
 
 - [[Ecology]]: Ecosystems, biodiversity, and conservation.
 - [[Remote_Sensing]]: Satellite and aerial Earth observation, training, and tools.
+- [[Training]]: Courses, workshops, and training programs for geospatial, remote sensing, and AI skills.
 - [[Web_Design]]: Designing and building websites, including AI-assisted site building.
