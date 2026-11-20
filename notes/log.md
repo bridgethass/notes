@@ -44,3 +44,9 @@ Append-only record of all operations.
   - Moved NASA ARSET from `Remote_Sensing.md` and the Agentic Coding for Geospatial course from `Agentic_Coding.md` into `Training.md` as its main notes. Training had shown (0) because it only had Related back-links.
   - Updated back-links in `Remote_Sensing.md`, `Agentic_Coding.md`, `Geospatial.md`, and `Ecology.md` to point to Training.
   - Added Web Design to the topic list in `CLAUDE.md`.
+- **2026-11-19** — Ingested `raw/New_Notes.md` (2 URL notes):
+  - Added Felix Rieseberg's "How to be more ambitious: A tutorial for humans with models" to `Agentic_Coding.md`.
+  - Created `Data.md` and added Samapriya Roy's "Data as Community Commons" newsletter.
+  - Created `Google_Earth_Engine.md` with a back-link to Data, and added back-links in `Geospatial.md` and `Cloud_Native.md`.
+  - Updated Latest Finds and the topic list in `index.md`, and added Data and Google Earth Engine to the `mkdocs.yml` nav.
+  - Moved the source to `processed/New_Notes_2026-11-19.md` and created a new empty `raw/New_Notes.md`.

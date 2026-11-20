@@ -1,7 +1,7 @@
 # Geospatial
 
 **Summary**: Tools, data, and methods for working with location-based data and spatial analysis.
-**Last updated**: 2026-11-18
+**Last updated**: 2026-11-19
 
 ---
 
@@ -12,3 +12,4 @@
 - [[Remote_Sensing]]: The Daily Fire Dashboard maps active fire detections from NASA FIRMS.
 - [[Web_Design]]: A portfolio website template for geospatial professionals.
 - [[Cloud_Native]]: STAC, a specification for cataloging geospatial data.
+- [[Data]]: Data as Community Commons, a newsletter on open geospatial datasets.

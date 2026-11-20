@@ -62,7 +62,9 @@ nav:
     - index.md
     - Agentic Coding: Agentic_Coding.md
     - Cloud Native: Cloud_Native.md
+    - Data: Data.md
     - Geospatial: Geospatial.md
+    - Google Earth Engine: Google_Earth_Engine.md
     - Ecology: Ecology.md
     - Remote Sensing: Remote_Sensing.md
     - Training: Training.md
